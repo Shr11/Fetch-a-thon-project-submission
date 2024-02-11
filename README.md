@@ -1,4 +1,4 @@
-# An intelligent system capable of efficiently sourcing, filtering, and presenting relevant job listings tailored to the individual's profile, preferences, and career goals. 
+# An intelligent system capable of efficiently sourcing, filtering, and presenting relevant job listings tailored to the individual's profile, preferences, and career goals. 🔎:
 
 ## The key objectives of this project include:
 
@@ -8,6 +8,12 @@
 
 ## API used
   [rapid-linkedin-jobs-api](https://rapidapi.com/rockapis-rockapis-default/api/rapid-linkedin-jobs-api/)
+
+### Video 
+  [gdrive](https://drive.google.com/file/d/1XUAqMHrV13ZBL_1F-enolmfF5vZprO8q/view?usp=sharing)
+
+### Presentation
+  [presentation](https://drive.google.com/file/d/1WrzlC0P3eijJVkapjbYfRD7lW0dmyu8M/view?usp=drive_link)
 
 
 
