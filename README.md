@@ -9,6 +9,11 @@
 ## API used
   [rapid-linkedin-jobs-api](https://rapidapi.com/rockapis-rockapis-default/api/rapid-linkedin-jobs-api/)
 
+## Requirements:
+```pip install uagents```
+## Run:
+```python main.py "job_name"```
+
 ### Video 
   [gdrive](https://drive.google.com/file/d/1XUAqMHrV13ZBL_1F-enolmfF5vZprO8q/view?usp=sharing)
 
