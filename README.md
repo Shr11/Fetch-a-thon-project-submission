@@ -18,7 +18,7 @@
   [Google drive](https://drive.google.com/file/d/1XUAqMHrV13ZBL_1F-enolmfF5vZprO8q/view?usp=sharing)
 
 ### Presentation
-  [presentation](https://drive.google.com/file/d/1WrzlC0P3eijJVkapjbYfRD7lW0dmyu8M/view?usp=drive_link)
+  [presentation](https://www.canva.com/design/DAF8ctN-L-s/wTuukpclp_lgdz49YzxGRA/view?utm_content=DAF8ctN-L-s&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
