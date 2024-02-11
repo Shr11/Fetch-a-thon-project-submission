@@ -15,7 +15,7 @@
 ```python main.py "job_name"```
 
 ### Video 
-  [gdrive](https://drive.google.com/file/d/1XUAqMHrV13ZBL_1F-enolmfF5vZprO8q/view?usp=sharing)
+  [Google drive](https://drive.google.com/file/d/1XUAqMHrV13ZBL_1F-enolmfF5vZprO8q/view?usp=sharing)
 
 ### Presentation
   [presentation](https://drive.google.com/file/d/1WrzlC0P3eijJVkapjbYfRD7lW0dmyu8M/view?usp=drive_link)
